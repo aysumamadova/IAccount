@@ -1,0 +1,14 @@
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\bin\Debug\netcoreapp3.1\IAccount.exe
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\bin\Debug\netcoreapp3.1\IAccount.deps.json
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\bin\Debug\netcoreapp3.1\IAccount.runtimeconfig.json
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\bin\Debug\netcoreapp3.1\IAccount.runtimeconfig.dev.json
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\bin\Debug\netcoreapp3.1\IAccount.dll
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\bin\Debug\netcoreapp3.1\IAccount.pdb
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.csproj.AssemblyReference.cache
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.AssemblyInfoInputs.cache
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.AssemblyInfo.cs
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.csproj.CoreCompileInputs.cache
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.dll
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.pdb
+C:\Users\AysuMemmedova\source\repos\IAccount\IAccount\obj\Debug\netcoreapp3.1\IAccount.genruntimeconfig.cache
